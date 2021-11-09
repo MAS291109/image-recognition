@@ -1,0 +1,20 @@
+
+body{
+    background-color: blanchedalmond;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_obj, #result_object_name {
+    color: darkred;
+    font-size: 22px;
+}
+.name_of_obj hr{
+    border: 1px grey solid;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+}
